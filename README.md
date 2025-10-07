@@ -1,8 +1,8 @@
 # Algorithms-and-data-structures
 
-## -My university projects on Algorithms and data structures
-## -Langugage: C++.
-## -Technology: С++ 17, Unit Testing
+### -My university projects on Algorithms and data structures
+### -Langugage: C++.
+### -Technology: С++ 17, Unit Testing
 
 Репозиторій включає 11 лаборатоних робіт з дисципліни "Алоритми та структури данних". Все збережено в одному архіві, кожна лабораторна містить:
 
