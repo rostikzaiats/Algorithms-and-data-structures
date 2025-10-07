@@ -1,6 +1,6 @@
 # Algorithms-and-data-structures
-##My university projects on Algorithms and data structures
-##Langugage: C++.
+-My university projects on Algorithms and data structures
+-Langugage: C++.
 Репозиторій включає 11 лаборатоних робіт з дисципліни "Алоритми та структури данних". Все збережено в одному архіві, кожна лабораторна містить:
 1. Основну програму.
 2. Звіт про виконання лаборатоної роботи.
