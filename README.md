@@ -1,7 +1,11 @@
 # Algorithms-and-data-structures
+```
 -My university projects on Algorithms and data structures
 -Langugage: C++.
+-Technology: CMake, GoogleTest
+```
 Репозиторій включає 11 лаборатоних робіт з дисципліни "Алоритми та структури данних". Все збережено в одному архіві, кожна лабораторна містить:
+
 1. Основну програму.
 2. Звіт про виконання лаборатоної роботи.
 3. Гугли тести до основної програми.
